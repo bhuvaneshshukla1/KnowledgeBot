@@ -1,0 +1,84 @@
+body, html, #root {
+    height: 100%;
+
+    padding: 0;
+}
+
+.vh-100 {
+    min-height: 100vh;
+}
+
+.flex-grow-1 {
+    flex-grow: 1;
+}
+
+.overflow-auto {
+    overflow: auto;
+}
+
+.fixed-bottom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.chat-container {
+    overflow-y: auto;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+
+}
+
+.message-input {
+    margin-top: 10px;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.message-box {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+
+    background-color: #fff;
+    margin-left: 20%;
+    margin-right: 20%;
+    word-wrap: break-word;
+    display: block; /* Make the box fit the content */
+     /* Ensure long messages don't overflow */
+     /* Adjust width to fit content */
+}
+
+.message-left {
+
+    align-self: flex-start;
+    background-color: #cff9ac;
+    margin-left: 20%;
+    margin-right: 20%;
+
+    margin-bottom: 4%;
+}
+
+.message-right {
+    align-self: flex-end;
+    background-color: #ffffff;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 1%;
+    border: 0px solid #ccc;
+    border-radius: 0px;
+    padding: 0px;
+}
+
+.prompt-input{
+
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;    /* Centers vertically */
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 2%;
+}

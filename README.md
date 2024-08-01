@@ -59,7 +59,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About KnewledgeBot
+## About KnowledgeBot
 
 
 

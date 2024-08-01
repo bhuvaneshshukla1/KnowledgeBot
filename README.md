@@ -245,9 +245,4 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 [Ollama]: https://img.shields.io/badge/ollama-000000?style=for-the-badge
 [Ollama-url]: https://ollama.com/
 
-* [![Express][Express.js]][Express-url]
-* [![Python][Python]][Python-url]
-* [![Flask][Flask]][Flask]
-* [![Ollama][Ollama]][Ollama]
-
 

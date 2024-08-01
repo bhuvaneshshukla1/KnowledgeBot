@@ -95,6 +95,7 @@ Cloud
 * [![AWS Lambda][AWSLambda]][lambda-url]
 * [![AWS EC2][AWSEc2]][ec2-url]
 * [![AWS EKS][AWSEKS]][eks-url]
+* [![AWS S3][AWSS3]][s3-url]
 
 LLM
 * [![llama3][llama3]][llama3-url]
@@ -231,6 +232,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 [ec2-url]: https://jquery.com
 [AWSEKS]: https://img.shields.io/badge/aws%20eks-000000?style=for-the-badge&logo=amazoneks
 [eks-url]: https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html
+[AWSS3]: https://img.shields.io/badge/AWS%20S3-000000?style=for-the-badge&logo=amazons3
+[s3-url]: https://aws.amazon.com/s3/
 [llama3]: https://img.shields.io/badge/llama%203.1-000000?style=for-the-badge
 [llama3-url]: https://github.com/meta-llama/llama-models/blob/main/models/llama3_1/MODEL_CARD.md
 [Express.js]: https://img.shields.io/badge/EXPRESS%20JS-000000?style=for-the-badge&logo=express

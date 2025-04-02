@@ -10,8 +10,8 @@ const jwt = require('jsonwebtoken');
 const axios = require('axios');
 
 AWS.config.update({
-    accessKeyId: 'AKIAVRUVWLUUOIXJRY6O',
-    secretAccessKey: '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',
+    accessKeyId: 'accessKey',
+    secretAccessKey: 'secretAccessKey',
     region: 'us-east-1'
 });
 
